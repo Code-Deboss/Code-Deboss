@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Front-end web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email:obinnadivine107@gmail.com, Phone:08089826920
+- 📫 How to reach me email:obinnadivine107@gmail.com,
 
 
 
