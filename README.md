@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Code-Deboss
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Front-end web development
+- 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email:obinnadivine107@gmail.com,
 
