@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Engineer
 -----------------
 
-Welcome to my GitHub profile! I am a front-end web developer with a passion for creating visually stunning and intuitive websites. My expertise lies in using modern technologies such as HTML, CSS, and JavaScript to build responsive and interactive user interfaces. I have experience with popular front-end frameworks such as React and Bootstrap, and I am always eager to learn new tools and technologies. On my profile, you will find a variety of projects that showcase my skills in web design, user experience, and web development. From simple landing pages to complex web applications, I strive to deliver high-quality and visually appealing solutions. Feel free to have a look around and let me know what you think
+Welcome to my GitHub profile! I am a front-end web developer with a passion for creating visually stunning and intuitive websites. My expertise lies in using modern technologies such as HTML, CSS, and JavaScript to build responsive and interactive user interfaces. I have experience with popular front-end frameworks and libraries such as ReactJS, Scss, Mantine, Tailwind etc, and I am always eager to learn new tools and technologies. On my profile, you will find a variety of projects that showcase my skills in web design, user experience, and web development. From simple landing pages to complex web applications, I strive to deliver high-quality and visually appealing solutions. Feel free to have a look around and let me know what you think
 
 * 🌍  I'm based in port harcourt, Rivers state, Nigeria
 * ✉️  You can contact me at [obinnadivine107@gmail.com](mailto:obinnadivine107@gmail.com)
